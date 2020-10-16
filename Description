@@ -1,0 +1,5 @@
+The image classification of 6 different categories of fruits is performed using Convolutional Neural Network and Keras with TensorFlow backend library.
+
+The different categories of fruits include Fresh Apples, Rotten Apples, Fresh Bananas, Rotten Bananas, Fresh Oranges and Rotten Oranges. 
+
+The training data contains 1212 images and the testing data contains 300 images. 
